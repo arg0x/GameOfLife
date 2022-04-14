@@ -9,6 +9,7 @@
 - Z - Random 
 
 # Screenshots
-![Glider Gun](https://github.com/arg0x/GameOfLife/blob/main/gif/glider_gun.gif?raw=true)
 
-![Random](https://github.com/arg0x/GameOfLife/blob/main/gif/random.gif?raw=true)
+<img src="https://github.com/arg0x/GameOfLife/blob/main/gif/glider_gun.gif?raw=true" alt="Glider Gun" width="500"/>
+
+<img src="https://github.com/arg0x/GameOfLife/blob/main/gif/random.gif?raw=true" alt="Random" width="500"/>
